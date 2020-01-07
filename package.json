@@ -1,0 +1,29 @@
+{
+  "name": "willords",
+  "version": "0.1.0",
+  "description": "Translator of language willords",
+  "main": "lib/willords.js",
+  "scripts": {
+    "build": "babel src/willords.js -d lib",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseWR5/willords.git"
+  },
+  "keywords": [
+    "willords",
+    "translator",
+    "simple",
+    "language"
+  ],
+  "author": "Jose W. Rivas <josewr5@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.7.7",
+    "@babel/core": "^7.7.7",
+    "@babel/preset-env": "^7.7.7",
+    "chai": "^4.2.0",
+    "mocha": "^7.0.0"
+  }
+}
