@@ -1,6 +1,6 @@
 # willords
 
-willords is a madeup language from the course on JavaScript Fundamentals.
+willords is a madeup language based from the course on JavaScript Fundamentals by Guido Contreras Woda.
 
 ## madeup Language Descripcion
 
